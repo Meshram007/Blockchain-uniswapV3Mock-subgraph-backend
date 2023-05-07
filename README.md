@@ -3,7 +3,7 @@
 ## Subgraph
 
 ## Project Discription
-create an rasily accessible subgraph which mock the uniswap v3 24 hours volume data.
+create an easily accessible subgraph which mock the uniswap v3 24 hours volume data.
 
 
 ## Subgraph:-
